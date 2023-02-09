@@ -1,0 +1,15 @@
+body {
+    background: #f7f7aa;
+    color: #aa5112;
+    text-align: center;
+}
+.links a {
+  margin: 60px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: #ec8294;
+  box-shadow: rgb(156, 52, 69);
+  color: #000;
+}
